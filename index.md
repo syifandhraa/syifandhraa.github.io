@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Syifa's Project 
 
 [Dummy Project](https://github.com/syifandhraa/syifandhraa.github.io/blob/main/dummy%20project.ipynb)
 
