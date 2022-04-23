@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/syifandhraa/syifandhraa.github.io/blob/main/Tugas%20Mandiri%20Pertemuan%2010.ipynb)
+[Dummy Project](https://github.com/syifandhraa/syifandhraa.github.io/blob/main/dummy%20project.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
