@@ -1,5 +1,5 @@
 title: Syifa Nadhira Fahira # your name (or website title) here
-logo: "https://github.com/syifandhraa/syifandhraa.github.io/blob/main/images/Syifa_Image.jpeg?raw=true" # your photo (or logo) here
+logo: "/image/Syifa_Image.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
